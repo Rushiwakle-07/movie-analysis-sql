@@ -1,8 +1,8 @@
-🎬 Movie Database Analysis: Global Cinema Insights
-📌 Project Overview
+## 🎬 Movie Database Analysis: Global Cinema Insights
+## 📌 Project Overview
 This project involves a comprehensive SQL-based analysis of a global cinema database consisting of 300+ movies, 500 actors, and 2,000 user ratings. The goal was to extract meaningful insights regarding movie profitability, genre trends, and user engagement using MySQL.
 
-📊 Dataset Structure
+## 📊 Dataset Structure
 The database consists of 7 interconnected tables:
 
 movies: Central table containing title, budget, revenue, and release info.
@@ -19,7 +19,7 @@ ratings: User-generated scores and qualitative feedback.
 
 users: Demographic data of the global audience.
 
-🚀 Key Business Questions Answered
+## 🚀 Key Business Questions Answered
 I divided the analysis into two phases to demonstrate a range of SQL technical skills:
 
 🔹 Basic Level
@@ -38,7 +38,7 @@ Financial Analysis: Calculating ROI (Profit) by subtracting Budget from Box Offi
 
 Relationship Mapping: Identifying lead actors in specific high-profile titles.
 
-🛠️ Tech Stack & Skills Used
+## 🛠️ Tech Stack & Skills Used
 Database: MySQL
 
 SQL Skills: - Complex Joins (INNER, LEFT)
@@ -51,12 +51,12 @@ Subqueries for dynamic filtering
 
 Data Cleaning & Aliasing
 
-📂 Project Files
+## 📂 Project Files
 Movie_Project.sql: The complete script containing all 20 analysis queries.
 
 Data/: Folder containing the 7 CSV source files used to populate the database.
 
-📈 Sample Insight
+## 📈 Sample Insight
 "Through this analysis, I discovered that the top 5 most profitable movies originated from three different countries, highlighting the global nature of modern cinema success."
 
 ## 👤 Author
